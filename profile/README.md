@@ -1,5 +1,6 @@
 <div align="center">
-  <img alt="CallDevX Logo" width="100" src="https://github.com/user-attachments/assets/1571f4cf-da33-41d9-a160-caa3c722f380" />  
+  <title>CallDevs.com</title>
+  <img alt="Logo www.Calldevs.com" width="2048" height="2048" alt="calldevs logo with website (1) (2)" src="https://github.com/user-attachments/assets/9dd9636a-abe9-411a-ab1b-5bffcee11a47" />
   <h1>CallDevX Technologies</h1>
   
   <p>
