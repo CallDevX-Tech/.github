@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="Logo www.Calldevs.com" width="200"   src="https://github.com/user-attachments/assets/9dd9636a-abe9-411a-ab1b-5bffcee11a47" />
-  <h1>CallDevX Technologies</h1>
+  <h1>CallDevs Technologies</h1>
   
   <p>
     <strong>Building Scalable Digital Solutions for Modern Businesses</strong>
