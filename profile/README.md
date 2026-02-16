@@ -21,7 +21,7 @@ Our focus is not just on writing code, but on delivering **measurable business v
 
 | **Frontend Engineering** | **Backend Architecture** | **DevOps & Cloud** |
 | :--- | :--- | :--- |
-| Next.js / React | Django (Python) | Docker / Kubernetes |
+| Next.js / React | Django / Express | Docker / Kubernetes |
 | Angular | .NET Core | CI/CD Pipelines |
 | Tailwind CSS / UI | REST & GraphQL APIs | Cloud Architecture |
 
