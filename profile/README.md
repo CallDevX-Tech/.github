@@ -6,7 +6,7 @@
     <strong>Building Scalable Digital Solutions for Modern Businesses</strong>
   </p>
 
-  <a href="https://www.calldevx.tech"><strong>🌐 Visit Our Website</strong></a> | 
+  <a href="https://www.calldevs.com"><strong>🌐 Visit Our Website</strong></a> | 
   <a href="mailto:contact@calldevx.tech"><strong>📩 Contact Us</strong></a>
 </div>
 
