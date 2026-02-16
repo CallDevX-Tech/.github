@@ -1,6 +1,6 @@
 <div align="center">
   <title>CallDevs.com</title>
-  <img alt="Logo www.Calldevs.com" width="2048" height="2048" alt="calldevs logo with website (1) (2)" src="https://github.com/user-attachments/assets/9dd9636a-abe9-411a-ab1b-5bffcee11a47" />
+  <img alt="Logo www.Calldevs.com" width="200"   src="https://github.com/user-attachments/assets/9dd9636a-abe9-411a-ab1b-5bffcee11a47" />
   <h1>CallDevX Technologies</h1>
   
   <p>
