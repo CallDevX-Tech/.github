@@ -41,5 +41,5 @@ Our focus is not just on writing code, but on delivering **measurable business v
 
 <div align="center">
   <p><em>Ready to build your next project?</em></p>
-  <a href="https://www.calldevx.tech"><strong>Get a Quote Today</strong></a>
+  <a href="https://www.calldevs.com"><strong>Get a Quote Today</strong></a>
 </div>
