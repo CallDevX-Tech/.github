@@ -1,13 +1,13 @@
 <div align="center">
-  <img alt="Logo www.Calldevs.com" width="200"   src="https://github.com/user-attachments/assets/9dd9636a-abe9-411a-ab1b-5bffcee11a47" />
-  <h1>CallDevs Technologies</h1>
+  <img width="200" alt="calldevx" src="https://github.com/user-attachments/assets/5da35a1a-9a70-49a4-ab23-44739a328317" />
+  <h1>CallDevX Technologies</h1>
   
   <p>
     <strong>Building Scalable Digital Solutions for Modern Businesses</strong>
   </p>
 
-  <a href="https://www.calldevs.com"><strong>🌐 Visit Our Website</strong></a> | 
-  <a href="mailto:contact@calldevx.tech"><strong>📩 Contact Us</strong></a>
+  <a href="https://www.calldevx.tech"><strong>🌐 Visit Our Website</strong></a> | 
+  <a href="mailto:calldevxtech@gmail.com"><strong>📩 Contact Us</strong></a>
 </div>
 
 <br />
@@ -41,5 +41,5 @@ Our focus is not just on writing code, but on delivering **measurable business v
 
 <div align="center">
   <p><em>Ready to build your next project?</em></p>
-  <a href="https://www.calldevs.com"><strong>Get a Quote Today</strong></a>
+  <a href="https://www.calldex.tech"><strong>Get a Quote Today</strong></a>
 </div>
